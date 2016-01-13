@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="HW8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/HW8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/HW8.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
